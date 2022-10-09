@@ -1,0 +1,33 @@
+[20-Sep-2022 15:02:10 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/maihuyba/public_html/ajaxs/client/rating.php on line 96
+[20-Sep-2022 15:12:19 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/maihuyba/public_html/ajaxs/client/rating.php on line 96
+[21-Sep-2022 16:42:11 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/maihuyba/public_html/ajaxs/client/rating.php on line 96
+[21-Sep-2022 16:42:32 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/maihuyba/public_html/ajaxs/client/rating.php on line 96
+[22-Sep-2022 00:39:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: data in /home/maihuyba/public_html/libs/helper.php on line 1066
+[23-Sep-2022 15:00:22 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/maihuyba/public_html/ajaxs/client/rating.php on line 96
+[23-Sep-2022 15:00:43 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/maihuyba/public_html/ajaxs/client/rating.php on line 96
+[24-Sep-2022 11:07:58 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/maihuyba/public_html/ajaxs/client/rating.php on line 96
+[24-Sep-2022 20:28:04 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/maihuyba/public_html/ajaxs/client/rating.php on line 96
+[25-Sep-2022 12:13:40 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/maihuyba/public_html/ajaxs/client/rating.php on line 96
+[27-Sep-2022 07:38:04 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: data in /home/maihuyba/public_html/libs/helper.php on line 1068
+[29-Sep-2022 09:12:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: data in /home/maihuyba/public_html/libs/helper.php on line 1068
+[29-Sep-2022 17:42:13 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/maihuyba/public_html/ajaxs/client/rating.php on line 96
+[30-Sep-2022 16:44:57 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/maihuyba/public_html/ajaxs/client/rating.php on line 96
+[01-Oct-2022 12:25:48 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/maihuyba/public_html/ajaxs/client/rating.php on line 96
+[01-Oct-2022 15:59:42 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/maihuyba/public_html/ajaxs/client/rating.php on line 96
+[01-Oct-2022 16:27:07 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1226): User 'maihuyba' has exceeded the 'max_user_connections' resource (current value: 30) in /home/maihuyba/public_html/libs/db.php on line 17
+[01-Oct-2022 16:27:07 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1226): User 'maihuyba' has exceeded the 'max_user_connections' resource (current value: 30) in /home/maihuyba/public_html/libs/db.php on line 17
+[01-Oct-2022 16:27:07 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1226): User 'maihuyba' has exceeded the 'max_user_connections' resource (current value: 30) in /home/maihuyba/public_html/libs/db.php on line 17
+[02-Oct-2022 12:18:51 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/maihuyba/public_html/ajaxs/client/rating.php on line 96
+[02-Oct-2022 12:19:27 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/maihuyba/public_html/ajaxs/client/rating.php on line 96
+[02-Oct-2022 13:07:14 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/maihuyba/public_html/ajaxs/client/rating.php on line 96
+[02-Oct-2022 13:09:28 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/maihuyba/public_html/ajaxs/client/rating.php on line 96
+[03-Oct-2022 19:57:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: data in /home/maihuyba/public_html/libs/helper.php on line 1068
+[03-Oct-2022 22:54:31 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/maihuyba/public_html/ajaxs/client/rating.php on line 96
+[03-Oct-2022 22:54:35 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/maihuyba/public_html/ajaxs/client/rating.php on line 96
+[04-Oct-2022 13:45:36 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/maihuyba/public_html/ajaxs/client/rating.php on line 96
+[05-Oct-2022 17:39:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: data in /home/maihuyba/public_html/libs/helper.php on line 1068
+[07-Oct-2022 00:58:46 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/maihuyba/public_html/ajaxs/client/rating.php on line 96
+[07-Oct-2022 20:24:22 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/maihuyba/public_html/ajaxs/client/rating.php on line 96
+[08-Oct-2022 13:44:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: data in /home/maihuyba/public_html/libs/helper.php on line 1076
+[08-Oct-2022 15:55:05 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/maihuyba/public_html/ajaxs/client/rating.php on line 96
+[08-Oct-2022 19:36:32 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/maihuyba/public_html/ajaxs/client/rating.php on line 96
